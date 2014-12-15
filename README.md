@@ -11,7 +11,7 @@ The following Python libraries are required by the script:
 
 A simple `pip install lxml wikipedia pyquery` should take care of these
 requirements, though you may need some dev libraries and building tools to
-compile `lxml`.
+compile `lxml`. You may have luck finding a pre-built binary [here](http://lxml.de/installation.html).
 
 ## Usage
 The most basic example is
